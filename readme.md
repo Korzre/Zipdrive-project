@@ -14,5 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um projeto da faculdade para a disciplina de Arquitetura de software, o projeto é todo baseado no Zip drive, conceitos, importancia, história, etc.
 
-
 Feito pelo grupo <b>06</b>
