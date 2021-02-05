@@ -1,6 +1,4 @@
-# 
-# <center> <img src="./logo1.png" width = "120px" heigh="80px" > <br> <br> MATÉRIA SOBRE O ZIP DRIVE </center>
-
+#  MATÉRIA SOBRE O ZIP DRIVE 
 
 <img src="./zipdriveBKG.png">
 
